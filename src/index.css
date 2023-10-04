@@ -10,3 +10,9 @@ body {
     margin: 0;
     background-color: #272727;
 }
+
+section {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
